@@ -11,28 +11,19 @@
   <img src="https://komarev.com/ghpvc/?username=afick&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
-  hello, world
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+### :raising_hand_man: about me :
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1475359524104-d101d02a042b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=994&q=80" width="800" height="200"/>
-</div>
+i am a '25 studying Computer Science at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Dartmouth_College_shield.svg/1200px-Dartmouth_College_shield.svg.png" width=30px> Dartmouth College.
 
-### :raising_hand_man: About Me :
+- :compass: i’m currently studying abroad at AIT Budapest :hungary:
 
-I am a '25 studying Computer Science at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Dartmouth_College_shield.svg/1200px-Dartmouth_College_shield.svg.png" width=30px> Dartmouth College.
+- :seedling: practicing developing mobile applications and optimizing algorithms
 
-- :compass: I’m currently studying abroad at AIT Budapest :hungary:
+- :zap: in my free time, i solve play ultimate frisbee and do photography
 
-- :seedling: Practicing developing mobile applications and optimizing algorithms
-
-- :zap: In my free time, I solve play ultimate frisbee and do photography
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexwfick/)
+- :mailbox:how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexwfick/)
   
-- :memo: [My resume :incoming_envelope:](Alex_Fick_Resume.pdf)
+- :memo: [my resume :incoming_envelope:](Alex_Fick_Resume.pdf)
 <!--
 **afick/afick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
