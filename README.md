@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://www.svgrepo.com/show/274862/programmer.svg" width="100"/>
+</div>
 
 <!--
 **afick/afick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
