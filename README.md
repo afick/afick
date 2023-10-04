@@ -19,7 +19,7 @@ i am a '25 studying Computer Science at <img src="https://upload.wikimedia.org/w
 
 - :seedling: practicing developing mobile applications and optimizing algorithms
 
-- :zap: in my free time, i solve play ultimate frisbee and do photography
+- :zap: in my free time, i play ultimate frisbee and do photography
 
 - :mailbox:how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexwfick/)
   
