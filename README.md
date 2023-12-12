@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=afick&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :raising_hand_man: about me :
+### 🙋‍♂️ about me :
 
 i am a '25 studying Computer Science at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Dartmouth_College_shield.svg/1200px-Dartmouth_College_shield.svg.png" width=30px> Dartmouth College.
 
