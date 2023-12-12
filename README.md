@@ -15,17 +15,17 @@
 
 i am a '25 studying Computer Science at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Dartmouth_College_shield.svg/1200px-Dartmouth_College_shield.svg.png" width=30px> Dartmouth College.
 
-- :compass: i’m currently studying abroad at AIT Budapest :hungary:
+- 🧭 i’m currently studying abroad at AIT Budapest 🇭🇺
 
 - :seedling: practicing developing mobile applications and optimizing algorithms
 
 - :zap: in my free time, i play ultimate frisbee and do photography
 
-- :mailbox: how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexwfick/)
+- 📭 how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexwfick/)
   
 - :memo: [my resume :incoming_envelope:](Alex_Fick_Resume.pdf)
 
-### :hammer_and_wrench: languages and tools :
+### 🛠️ languages and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
