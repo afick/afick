@@ -13,11 +13,11 @@
 
 ### 🙋‍♂️ about me :
 
-i am a '25 studying Computer Science at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Dartmouth_College_shield.svg/1200px-Dartmouth_College_shield.svg.png" width=30px> Dartmouth College.
+i am a '25 studying Computer Science at Dartmouth College <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Dartmouth_College_shield.svg/1200px-Dartmouth_College_shield.svg.png" width=30px>
 
-- 🧭 i’m currently studying abroad at AIT Budapest 🇭🇺
+- 🧭 i’m currently studying interning with avronna inc. 🎇
 
-- :seedling: practicing developing mobile applications and optimizing algorithms
+- :seedling: exploring human/ai interaction and sharing knowledge of algorithms
 
 - :zap: in my free time, i play ultimate frisbee and do photography
 
