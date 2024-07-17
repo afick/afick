@@ -15,7 +15,7 @@
 
 i am a '25 studying Computer Science at Dartmouth College <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Dartmouth_College_shield.svg/1200px-Dartmouth_College_shield.svg.png" width=30px>
 
-- 🧭 i’m currently interning with avronna inc. 🎇
+- 🧭 i’m currently interning with PayPal 🎇
 
 - :seedling: exploring human/ai interaction and sharing knowledge of algorithms
 
