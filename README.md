@@ -23,7 +23,7 @@ i am a '25 studying Computer Science at Dartmouth College <img src="https://uplo
 
 - 📭 how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexwfick/)
   
-- :memo: [my resume :incoming_envelope:](`Alex Fick Resume.pdf`)
+- :memo: [my resume :incoming_envelope:](Alex Fick Resume.pdf)
 
 ### 🛠️ languages and tools :
 <div>
